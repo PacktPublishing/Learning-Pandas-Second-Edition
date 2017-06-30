@@ -11,8 +11,9 @@ All of the code is organized into folders. Each folder starts with a number foll
 
 
 The code will look like the following:
+Code words in text are shown as follows: 
 ```
-Code words in text are shown as follows: "This information can be easily imported into DataFrame using the pd.read_csv()  function as follows."
+"This information can be easily imported into DataFrame using the pd.read_csv()  function as follows."
 ```
 
 A block of code entered in a Python interpreter is set as follows:
